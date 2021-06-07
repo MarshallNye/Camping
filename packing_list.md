@@ -16,6 +16,10 @@
 
 ## Headlamp or flashlight
 ## Knife
+A small (<6") blade is generally all you need for basic outdoors work. 
+
+## Scarf/Shemagh/Keffiyeh/
+
 ## Water
 ## Rain Gear
 
