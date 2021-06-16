@@ -11,10 +11,12 @@
 ## Shelter and sleep
 ### Tent (with footprint & stakes)
 ### Sleeping bag
-### Sleeping
 ### Camping pillow
 
 ## Headlamp or flashlight
+* extra batteries
+
+
 ## Knife
 A small (<6") blade is generally all you need for basic outdoors work. 
 
@@ -23,7 +25,7 @@ A small (<6") blade is generally all you need for basic outdoors work.
 ## Water
 ## Rain Gear
 
-## Hygeine
+## Hygiene
 * Toilet paper
 * Hand sanitizer
 * Toothbrush and toothpaste
@@ -40,7 +42,11 @@ A small (<6") blade is generally all you need for basic outdoors work.
 Alcohol or antiseptic wipes
 
 ## Misc Items
-Insect repellent
+* Insect repellent
+* Ziplock bags
+* Paracord/rope
+* Lighter
+
 
 # Food
 
