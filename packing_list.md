@@ -16,9 +16,11 @@
 ## Shelter 
 ### Tent (with footprint & stakes)
 
+## Sleeping
 ### Sleeping bag
-### Sleeping
+### Blanket
 ### Camping pillow
+### Sleeping pad
 
 ## Headlamp or flashlight
 ## Knife
