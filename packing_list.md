@@ -33,18 +33,23 @@ A small (<6") blade is generally all you need for basic outdoors work.
 You should carry 1 liter of water for every 2 hours of backpacking you have ahead of you. Of course, adjust this for your specific situation. Consider your age, the intensity of the hike, your personal sweat rate, body type, duration of the hike, the weather, and the distance.
 
 ## Rain Gear
+## Radios
+Not super necessary, but a nice safety blanket. Good for
 
 ## Hygeine
 * Toilet paper
-* Hand sanitizer
 * Toothbrush and toothpaste
 * Menstrual and urinary products
 * Prescription medications
+
+### Optional/ Group Hygeine
+Things that are optional or could be shared among others. 
+* Hand sanitizer
 * Sunscreen
-* Lip balm
+* Quart ziplock bag
+* Lip balm 
 * Baby wipes
 * Spare eyeglasses/contact lens supplies (if applicable, Josh)
-* Quart ziplock bag
 * Biodegradeable soap
 
 ## Personal First Aid Kit 
@@ -58,6 +63,10 @@ Insect repellent
 # Team Level Items
 ## Water Filtration
 ## Cooking Kit
-## 
+
+## Stuff to Avoid
+Dedicated GPS Unit - You have a phone
+
+
 
 
