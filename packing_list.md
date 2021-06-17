@@ -22,13 +22,16 @@
 ### Camping pillow
 ### Sleeping pad
 
-## Headlamp or flashlight
+## Headlamp
+
 ## Knife
 A small (<6") blade is generally all you need for basic outdoors work. 
 
 ## Scarf/Shemagh/Keffiyeh/
 
 ## Water
+You should carry 1 liter of water for every 2 hours of backpacking you have ahead of you. Of course, adjust this for your specific situation. Consider your age, the intensity of the hike, your personal sweat rate, body type, duration of the hike, the weather, and the distance.
+
 ## Rain Gear
 
 ## Hygeine
@@ -40,7 +43,7 @@ A small (<6") blade is generally all you need for basic outdoors work.
 * Sunscreen
 * Lip balm
 * Baby wipes
-* Spare eyeglasses/contact lens supplies
+* Spare eyeglasses/contact lens supplies (if applicable, Josh)
 * Quart ziplock bag
 * Biodegradeable soap
 
