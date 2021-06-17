@@ -1,15 +1,21 @@
 # Clothing
-* Wicking underwear and socks
+* Wicking underwear, underarmor or otherwise 
+* Wool socks 
 * Cotton T Shirts
 * Wool socks
 * Broken-in boots or hiking shoes. You want something that will support your ankles, provides good grip, and won't cause blisters
-* Pants and a belt
+* Pants that will not chafe, that you can be comfortable in all day long
+* Belt, that won't pinch your waist while wearing a backpack
 * A warm jacket, either something wool or down. 
 
 # Personal Items
 
-## Shelter and sleep
+## Navigation
+
+
+## Shelter 
 ### Tent (with footprint & stakes)
+
 ### Sleeping bag
 ### Sleeping
 ### Camping pillow
