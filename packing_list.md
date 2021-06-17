@@ -1,3 +1,55 @@
+# Shut Up and Tell Me What to Buy
+Ok ok but you should really try these out in person at an REI or EMS, if possible.
+## Sleeping Pad
+### Therm-a-rest RidgeRest (Cheap)
+Therm-a-rest is one of the oldest brands in the game. The RidgeRest is cheap ($30) and is bullet proof, but not very comfortable. It's an improvement over sleeping on the ground.
+https://www.amazon.com/Therm-Rest-RidgeRest-Classic-Sleeping/dp/B00HANOZRY/ref=sr_1_13?crid=3AYFFC2ZMBQG&dchild=1&keywords=z+lite+sleeping+pad&qid=1623951169&s=sporting-goods&sprefix=zlite+slee%2Csporting%2C150&sr=1-13
+
+### Sea to Summit Pads (Mid Range)
+I have had good experience with this brand. I have an older Comfort Plus pad, which I really like. Expect to pay between $90 to $160 depending on the variant. 
+
+This pad is ~$100 for the regular size. It has a decent R-Value (2.6) and a reasonale weight.
+https://www.rei.com/product/120236/sea-to-summit-ultralight-si-sleeping-pad
+
+### Therm-a-rest XTherm NeoAir ($$$)
+Expensive, but extremely warm and light for the R-Value (6.9). Suitable for cold weather/winter camping. You may find you need far less sleeping bag with this, lest you overheat
+https://www.rei.com/product/171689/therm-a-rest-neoair-xtherm-sleeping-pad
+
+## Sleeping Bags
+### Snugpack Jungle Bag
+Warm, light, roomy with an integrated bug net, this is great for summer trips. The bug net allows you to sleep with just a tarp for shelter without being eaten (by bugs) $70 on amazon
+https://www.amazon.com/Snugpak-Jungle-Right-Hand-Black/dp/B000O1PKGE/ref=pd_ybh_a_7?_encoding=UTF8&psc=1&refRID=H2CR954WTZRRB5VPBT39
+
+### Big Agnes Echo Park 40 (20 degree)
+Warmer than the Jungle Bag, but heavier. Large open foot box, with room to spread around in. if you're an active sleeper, this is nice. $200
+https://www.amazon.com/Big-Agnes-FireLine-Sleeping-Degree/dp/B081752V2D/ref=sr_1_2?crid=29Q3STAGFO52&dchild=1&keywords=big%2Bagnes%2Becho%2Bpark&qid=1623951841&s=sporting-goods&sprefix=big%2Bagnes%2Becho%2Csporting%2C148&sr=1-2&th=1
+
+### Trail Quilts and Blankets
+You can instead choose to bring blankets instead. The tradeoff is that you have much more flexibility with what you bring. 
+
+Wool is warm, and retains it's insulative value when wet, at the cost of weight.
+
+Synthetic Blankets are lighter, but at the cost of $$
+
+## Shelter
+### Snugpak Ionosphere
+Single person tent, that doesn't require trees or trekking poles to setup. This is my preferred single person tent if there is a chance of rain
+https://www.amazon.com/Snugpak-92850-Ionosphere-Person-Olive/dp/B00LWW9FMY/ref=pd_ybh_a_5?_encoding=UTF8&refRID=H2CR954WTZRRB5VPBT39&th=1
+
+### Tarp
+The most lightweight option, at the expense of greater exposure. Suggest that you combine this with a bug net of some kind. Requires trekking poles or trees to setup, which can make campsite selection tricky
+A good size for shelter tarps is 10x10.
+You can rock the traditional hardware store tarp, but it gets heavy
+
+A SilNylon (Siliconized Nylon) tarp will be lighter and more durable, but at a higher price ~$100
+https://www.amazon.com/Aqua-Quest-Guide-Tarp-Backpacking/dp/B07VBJXV1Y/ref=sr_1_3?crid=L3RYFBYT1ZWM&dchild=1&keywords=aqua%2Bquest%2Btarp%2B10x10&qid=1623952521&sprefix=10x10%2Btarp%2Baqua%2Caps%2C162&sr=8-3&th=1&psc=1
+
+If you want to embrace your inner french canadian fur trapper, you can get an oilskin tarp. Heavy as shit, but pretty indestructible 
+https://www.tentsmiths.com/product/oilskin-tarp/
+
+Acturus makes a good emergency blanket/tarp combo. If you wanted to tarp camp, and want to do it on the cheap, buy this. ~$20
+https://www.amazon.com/Arcturus-Heavy-Duty-Survival-Blanket/dp/B01H4VAKYS/ref=sr_1_5?crid=OYDI1MOAYFSW&dchild=1&keywords=arcturus+emergency+blanket&qid=1623952717&sprefix=emergency+blankets+arctu%2Caps%2C156&sr=8-5
+
 # The Big Three
 Generally speaking, the Big Three gear pieces of any backpacking trip consist of: your shelter, your sleeping system and your backpack.
 ## Shelter
