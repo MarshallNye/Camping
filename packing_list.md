@@ -42,31 +42,4 @@ Not super necessary, but a nice safety blanket. Good for
 * Menstrual and urinary products
 * Prescription medications
 
-### Optional/ Group Hygeine
-Things that are optional or could be shared among others. 
-* Hand sanitizer
-* Sunscreen
-* Quart ziplock bag
-* Lip balm 
-* Baby wipes
-* Spare eyeglasses/contact lens supplies (if applicable, Josh)
-* Biodegradeable soap
-
-## Personal First Aid Kit 
-Alcohol or antiseptic wipes
-
-## Misc Items
-Insect repellent
-
-# Food
-
-# Team Level Items
-## Water Filtration
-## Cooking Kit
-
-## Stuff to Avoid
-Dedicated GPS Unit - You have a phone
-
-
-
 
