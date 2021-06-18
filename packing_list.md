@@ -13,7 +13,7 @@
 * Eating Utensils
 * Food
 
-# Shut Up and Tell Me What to Buy
+# Shut Up and Take My Money
 Ok ok but you should really try these out in person at an REI or EMS, if possible.
 ## Sleeping Pad
 ### Therm-a-rest RidgeRest (Cheap)
