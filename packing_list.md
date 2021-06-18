@@ -1,3 +1,19 @@
+
+# Generic Packing List
+Sleeping Bag
+Sleeping Pad
+Shelter
+Spare Clothing 
+Head Lamp
+Shemagh
+Canteen/Camelbak/Nalgene - 2.0L (+/- 0.5L) Water
+Disposable Poncho
+Hygeine
+Mug 
+Eating Utensils
+Food
+
+
 # Shut Up and Tell Me What to Buy
 Ok ok but you should really try these out in person at an REI or EMS, if possible.
 ## Sleeping Pad
@@ -177,3 +193,5 @@ https://www.amazon.com/SILKY-Folding-Landscaping-GOMBOY-294-24/dp/B0014CC5I8/ref
 
 ## Cooking Supplies
 Bring a cup or mug. Preferrably a collapsing style camp mug. 
+
+####################################################################################################################################################################
