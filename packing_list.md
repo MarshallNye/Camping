@@ -77,10 +77,10 @@ The options are too numerous to go into in this post. If you have a lot of gear 
 Ultralighters, and that’s what most thru-hikers evolve into, will favor packs with few features, a lightweight or non-existent frame. They will be as light as 1.5 pounds. They are made of lightweight materials, so the entire pack weight should be well under 30 pounds.
 
 # Clothing
+Pack your clothing in either ziplock or water proofstuff sacks. 
 * Wicking underwear, underarmor or otherwise 
-* Wool socks 
+* Wool socks, one pair for each day + a spare
 * Cotton T Shirts
-* Wool socks
 * Broken-in boots or hiking shoes. You want something that will support your ankles, provides good grip, and won't cause blisters
 * Pants that will not chafe, that you can be comfortable in all day long
 * Belt, that won't pinch your waist while wearing a backpack
@@ -89,7 +89,8 @@ Ultralighters, and that’s what most thru-hikers evolve into, will favor packs 
 # Personal Items
 
 ## Navigation
-A printed map of the area, USGS Topo Map, or Gazeteer
+A printed map of the area, USGS Topo Map, or Gazeteer. One per group is enough.
+
 ### Compass (Orienteering vs Lensatic)
 There are two major kinds of compasses, lensatic and orienteering. Both are suitable for most land navigation tasks, though I prefer to use a lensatic. 
 https://www.rei.com/learn/expert-advice/navigation-basics.html
@@ -98,14 +99,18 @@ https://carnegiemnh.org/how-to-use-a-lensatic-compass/
 Compasses are something you need to practice with ahead of time, and often you only need one per group. I definitely recommend you have one if you are going somewhere solo.
 
 
-## Headlamp
-The evolution from the old L-shape flashlights. I prefer a headlamp that has both white and red light. Red light is great for preserving night vision, and is less awful for the others areound your camp site
+## Lights
+I recommend you buy a headlamp. Even a cheap one is fine. I prefer a headlamp that has both white and red light. Red light is great for preserving night vision, and is less awful for the others areound your camp site.
+https://www.amazon.com/Energizer-Headlamp-Flashlight-Camping-Outdoors/dp/B07PYMWPFH/ref=sr_1_10?crid=24KAFVTYR36AU&dchild=1&keywords=energizer+headlamp&qid=1624029888&sprefix=energizer+head%2Caps%2C162&sr=8-10
+
+Don't bother with a lantern, unless you're planning on not having a fire.
 
 ## Knife
 A small (<6") blade is generally all you need for basic outdoors work. 
 
 ## Scarf/Shemagh/Keffiyeh/
-It's like a Thneed. Many, many uses. 
+It's like a Thneed. Many, many uses. Bring one.
+https://www.amazon.com/gp/product/B007JUXAFQ?pf_rd_r=EF7CGJPQHTPVS2BGDA6K&pf_rd_p=5ae2c7f8-e0c6-4f35-9071-dc3240e894a8&pd_rd_r=a5a5cfb7-423e-41ad-ad9d-5b908eb99340&pd_rd_w=vpmoW&pd_rd_wg=QLf2m&ref_=pd_gw_unk
 
 Dust Protection – Cover your face
 Sun Protection – Great for when you’re stranded without shade.
@@ -130,12 +135,26 @@ You should carry 1 liter of water for every 2 hours of backpacking you have ahea
 
 Water obtained in the field requires processing, to prevent water bourne illness.
 
-Boiling
-Chemical Treatment
-Filtering
+I like single wall metal canteens (because I can boil water in them), but really and plastic water bottle you have is fine.
+
+Camelbaks and other water bladders are a fine choice, if your backpack accomodates them.
+
+## Water Filtration
+Making this it's own category. I bring water filtration with me that can supply water to the group, so don't worry about this
+### Boiling
+Tried and true. Will kill any bugs in the water, but will not remove contaminants. Jet Boils are the defacto water boiler for most hikers, but a tin can and a fire works 
+
+### Chemical Treatment
+Usually as a backup if you cannot boil or filter water. Usually gives water an unpleasant taste, but kills bugs. Does not remove contaminants. 
+
+### Filtering
+The preferred way to go, will filter out bugs, but also can remove some contaminants.
+
+### Distillation
+You really don't see this in the field, but is a reliable way to purify water.
 
 ## Rain Gear
-
+If you aren't expecting weather, a cheap poncho is enough for a surprise rain shower. Otherwise a jacket with a waterproof shell is a good option. Remember you'll need to find shelter for your gear as well!
 
 ## Radios
 Not a necessity, but is good for if you need to wander away from camp in the middle of the night.
@@ -145,5 +164,16 @@ Not a necessity, but is good for if you need to wander away from camp in the mid
 * Toothbrush and toothpaste
 * Menstrual and urinary products
 * Prescription medications
+* A small ziplock bag to store used products, if you are not going to bury/burn them
 
+I bring a small bottle of biodegradeable soap, so don't worry about packing it.
 
+## Small Fire Kit
+I'll go over how to make a fire, and what's in my kit. Don't worry about packing this.
+
+## Wood processing
+I like collapsable saws. 
+https://www.amazon.com/SILKY-Folding-Landscaping-GOMBOY-294-24/dp/B0014CC5I8/ref=sr_1_6?crid=1NZ9OEY9ZIJIV&dchild=1&keywords=silky+saw&qid=1624030025&sprefix=silky+%2Caps%2C165&sr=8-6
+
+## Cooking Supplies
+Bring a cup or mug. Preferrably a collapsing style camp mug. 
