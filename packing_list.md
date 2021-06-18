@@ -1,29 +1,17 @@
 
 # Generic Packing List
-Sleeping Bag
-
-Sleeping Pad
-
-Shelter
-
-Spare Clothing 
-
-Head Lamp
-
-Shemagh
-
-Canteen/Camelbak/Nalgene - 2.0L (+/- 0.5L) Water
-
-Disposable Poncho
-
-Hygeine
-
-Mug 
-
-Eating Utensils
-
-Food
-
+* Sleeping Bag
+* Sleeping Pad
+* Shelter
+* Spare Clothing 
+* Head Lamp
+* Shemagh
+* Canteen/Camelbak/Nalgene - 2.0L (+/- 0.5L) Water
+* Disposable Poncho
+* Hygeine
+* Mug 
+* Eating Utensils
+* Food
 
 # Shut Up and Tell Me What to Buy
 Ok ok but you should really try these out in person at an REI or EMS, if possible.
