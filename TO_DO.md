@@ -1,12 +1,12 @@
 # Shit To Do
- - [ ] Finish Packing List
- - [ ] Confirm headcount 
- - [ ] Confirm location
+ - [X] Finish Packing List
+ - [X] Confirm headcount 
+ - [X] Confirm location
  - [ ] Confirm Time
  - [ ] Establish transportation
- - [ ] Confirm Gear Sharing
+ - [X] Confirm Gear Sharing
  - [ ] Confirm Packing
- - [ ] Confirm Dietary Issues
+ - [X] Confirm Dietary Issues
  - [ ] Meal Plan / Shopping List
  - [ ] Buy Groceries 1 day ahead
  - [ ]
